@@ -1,0 +1,20 @@
+# Data files
+data/
+*.csv
+*.feather
+*.parquet
+*.pkl
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+ashrae/
+*.dll
